@@ -1,9 +1,9 @@
-Neos:
-  Media:
-    assetSources:
-      pixabay:
-        assetSource: 'NeosRulez\AssetSource\Pixabay\AssetSource\PixabayAssetSource'
-        assetSourceOptions:
-          apiKey: 'your-api-key'
-          icon: 'resource://NeosRulez.AssetSource.Pixabay/Public/Pixabay.svg'
-          defaultSearchTerm: ''
+#Neos:
+#  Media:
+#    assetSources:
+#      pixabay:
+#        assetSource: 'NeosRulez\AssetSource\Pixabay\AssetSource\PixabayAssetSource'
+#        assetSourceOptions:
+#          apiKey: 'your-api-key'
+#          icon: 'resource://NeosRulez.AssetSource.Pixabay/Public/Pixabay.svg'
+#          defaultSearchTerm: ''
